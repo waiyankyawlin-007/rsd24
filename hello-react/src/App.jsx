@@ -1,4 +1,3 @@
-import { useState } from "react";
 import AddForm from "./AddForm";
 import CheckList from "./CheckList";
 
